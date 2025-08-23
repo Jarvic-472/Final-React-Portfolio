@@ -34,7 +34,7 @@ export const Projects = () => {
       title: "BOOTSTRAP/CSS Design",
       description: "Indulge the sweetest moments with Delicious Cake freshly baked cake we craft each.",
       imgUrl: projImg3,
-      editLink: "file:///C:/parmeshwar/All%20Projects/CSS%20Projects/CSS%20Project%201/index.html",
+      editLink: "https://thriving-queijadas-6576db.netlify.app/",
     },
     {
       title: "BOOTSTRAP/CSS Design",
@@ -80,9 +80,9 @@ export const Projects = () => {
     },
     {
       title: "Boot/Spring Boot & All Framework Use",
-      description: "java,sql,jdbc,Node.js,Express.js,MongoDB,JWTAuth,RESTAPI ",
+      description: "Java,Servlet,JSP,JDBC,MySQL",
       imgUrl: projImg11,
-      editLink: "http://localhost:8082/shopping-cart/",
+      editLink: "http://localhost:8081/shopping-cart/",
     },
   ];
 

@@ -63,13 +63,7 @@ export const Education = () => {
                                         <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                                             <Nav.Item>
                                                 <Nav.Link eventKey="first">Degrees</Nav.Link>
-                                            </Nav.Item>
-                                            {/*<Nav.Item>
-                                                <Nav.Link eventKey="second">Certifications</Nav.Link>
-                                            </Nav.Item>
-                                            <Nav.Item>
-                                                <Nav.Link eventKey="third">Skills</Nav.Link>
-                                            </Nav.Item>*/}
+                                            </Nav.Item>                                        
                                         </Nav>
                                         <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
                                             <Tab.Pane eventKey="first">
